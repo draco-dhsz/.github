@@ -1,4 +1,4 @@
-# Pretending to be Famous with Draco
+# Welcome for checking the Github page of 'Pretending to be Famous with Draco'
 
 > ‘Pretending to be famous with Draco’ Community Service Club (Draco ECA) through Draco's engaging first-person narration, every facet of life in DHSZ is presented in a vibrant, entertaining manner across social media platforms. 
 
