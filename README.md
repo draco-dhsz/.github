@@ -1,4 +1,4 @@
-# Pretending to be famous with Draco
+# <p align="center">Pretending to be famous with Draco
 
 <p align="center">
   <img src="https://via.placeholder.com/800x200/2C3E50/FFFFFF?text=Pretending+to+be+Famous+with+Draco" alt="Project Banner">
