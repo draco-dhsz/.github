@@ -29,9 +29,9 @@ Our content includes:
 
 ## 👥 Team
 - Founder & Co-founders:
-  Ellie Yang
-  Jayden Huang
-  Tansee Liu
+  #Ellie Yang
+  #Jayden Huang
+  #Tansee Liu
 
 - Draco Leadership Team:
   Ellie Yang (SY2024-25)
