@@ -13,9 +13,9 @@
 
 ### 📖 About This Project
 
-**Pretending to be famous with Draco** is a creative role-playing and content generation project that helps you create high-quality, celebrity-style social media posts, interviews, stories, and fan interactions with Draco’s signature sharp, elegant, and arrogant style.
+**Pretending to be famous with Draco** was established in May 2024 at Dulwich International High School Programme Suzhou.
 
-Whether you're practicing personal branding, creating content, or just having fun pretending to be famous — Draco has got your back.
+Take you on a journey to explore the school from the unique perspective of Dulwich Dragon, Draco. Through Draco's interesting first-person narrative, every aspect of school life is displayed in an all-round way on social media platforms in a vivid and interesting way. We hope to show the school's excellent academic atmosphere, colorful extracurricular activities, modern teaching facilities, and harmonious interaction between teachers and students through Draco's "eyes". Whether it's a freshman, a parent, or a community member, they can gain an in-depth understanding of the school's values and daily life through Draco's story.
 
 ---
 
