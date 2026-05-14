@@ -39,6 +39,9 @@ Our content includes:
 - School event photography
 - Promotional edits
 - Student life showcases
+
+---
+
 ### 👥 Team
 
 **Founders & Co-founders**  
