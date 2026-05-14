@@ -1,62 +1,62 @@
-# Welcome for checking the Github page of 'Pretending to be Famous with Draco'
+# Pretending to be famous with Draco
 
-> ‘Pretending to be famous with Draco’ Community Service Club (Draco ECA) through Draco's engaging first-person narration, every facet of life in DHSZ is presented in a vibrant, entertaining manner across social media platforms. 
+<p align="center">
+  <img src="https://via.placeholder.com/800x200/2C3E50/FFFFFF?text=Pretending+to+be+Famous+with+Draco" alt="Project Banner">
+</p>
 
----
-
-## 📖 About
-
-To showcasing life at DHSZ through fun and engaging social media content narrated by Draco the Dragon.
-
-Through video editing, and creative storytelling, we highlight:
-- 📚 Academic atmosphere
-- 🎭 Extracurricular activities
-- 🏫 Modern campus facilities
-- 🤝 Student & staff interactions
-- 🎬 Creative media projects
+<p align="center">
+  <strong>Turn your ordinary life into celebrity moments.</strong><br>
+  Powered by the one and only <strong>Draco Malfoy</strong> persona.
+</p>
 
 ---
 
-## 📸 Content
+### 📖 About This Project
 
-Our content includes:
-- Douyin(TikTok) / Rednote videos
-- School event photography
-- Promotional edits
-- Student life showcases
+**Pretending to be famous with Draco** is a creative role-playing and content generation project that helps you create high-quality, celebrity-style social media posts, interviews, stories, and fan interactions with Draco’s signature sharp, elegant, and arrogant style.
+
+Whether you're practicing personal branding, creating content, or just having fun pretending to be famous — Draco has got your back.
 
 ---
 
-## 👥 Team
-- Founder & Co-founders:
-  #Ellie Yang
-  #Jayden Huang
-  #Tansee Liu
+### 👥 Team
 
-- Draco Leadership Team:
-  Ellie Yang (SY2024-25)
-  Tansee Liu (SY2024-26)
-  Jayden Huang (SY2024-27)
-  Elaine Zhou (SY2026-27)
+**Founders & Co-founders**  
+- Ellie Yang  
+- Jayden Huang  
+- Tansee Liu  
 
-- Heads of Departments:
-  Ellie Yang (Director of Planning Department from SY2024-25)
-  Tansee Liu (Director of Publicity Department form SY2024-26)
-  Jayden Huang (Director of Operation Department from SY2024-27)
-  Cici Lu (Director of Planning Department from SY2025-28)
-  Felix Xu (Director of Operation Department from SY2026-27)
-  Maggie Wu (Director of Publicity Department from SY 2026-29)
+**Draco Leadership Team**  
+- Ellie Yang (SY2024-25)  
+- Tansee Liu (SY2024-26)  
+- Jayden Huang (SY2024-27)  
+- Elaine Zhou (SY2026-27)  
 
----
-
-## 🌐 Social Media
-
-- Douyin: `@draco_dhsz`
-- Rednote: `@draco_dhsz`
+**Heads of Departments**  
+- Ellie Yang — Director of Planning Department (SY2024-25)  
+- Tansee Liu — Director of Publicity Department (SY2024-26)  
+- Jayden Huang — Director of Operation Department (SY2024-27)  
+- Cici Lu — Director of Planning Department (SY2025-28)  
+- Felix Xu — Director of Operation Department (SY2026-27)  
+- Maggie Wu — Director of Publicity Department (SY2026-29)  
 
 ---
 
-## 📄 License
+### ✨ Core Features
 
-This project is for educational and community service purposes.
+- Highly consistent **Draco System Prompt**  
+- Rich content templates (posts, flexing diaries, crisis PR, live scripts, etc.)  
+- Weekly celebrity content planner  
+- Multiple Draco modes (Classic, Soft, Dark, Professional, etc.)  
+- Meme & trending slang integration  
+- Ready-to-use examples  
 
+---
+
+### 🚀 Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/pretending-to-be-famous-with-draco.git
+
+cd pretending-to-be-famous-with-draco
