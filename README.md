@@ -54,7 +54,7 @@ Through photography, videos, posters, and creative storytelling, we highlight:
 
 ---
 
-## 📸 Content
+### 📸 Content
 
 Our content includes:
 
