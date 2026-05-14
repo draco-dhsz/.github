@@ -44,12 +44,24 @@ Take you on a journey to explore the school from the unique perspective of Dulwi
 
 ### ✨ Core Features
 
-- Highly consistent **Draco System Prompt**  
-- Rich content templates (posts, flexing diaries, crisis PR, live scripts, etc.)  
-- Weekly celebrity content planner  
-- Multiple Draco modes (Classic, Soft, Dark, Professional, etc.)  
-- Meme & trending slang integration  
-- Ready-to-use examples  
+Through photography, videos, posters, and creative storytelling, we highlight:
+
+- 📚 Academic atmosphere
+- 🎭 Extracurricular activities
+- 🏫 Modern campus facilities
+- 🤝 Student & staff interactions
+- 🎬 Creative media projects
+
+---
+
+## 📸 Content
+
+Our content includes:
+
+- Douyin / Rednotes videos
+- School event photography
+- Promotional edits
+- Student life showcases
 
 ---
 
@@ -57,6 +69,6 @@ Take you on a journey to explore the school from the unique perspective of Dulwi
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pretending-to-be-famous-with-draco.git
+git clone https://github.com/huangjayden/draco-dhsz.git
 
-cd pretending-to-be-famous-with-draco
+cd draco-dhsz
