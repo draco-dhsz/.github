@@ -19,29 +19,6 @@ Take you on a journey to explore the school from the unique perspective of Dulwi
 
 ---
 
-### 👥 Team
-
-**Founders & Co-founders**  
-- Ellie Yang  
-- Jayden Huang  
-- Tansee Liu  
-
-**Draco Leadership Team**  
-- Ellie Yang (SY2024-25)  
-- Tansee Liu (SY2024-26)  
-- Jayden Huang (SY2024-27)  
-- Elaine Zhou (SY2026-27)  
-
-**Heads of Departments**  
-- Ellie Yang — Director of Planning Department (SY2024-25)  
-- Tansee Liu — Director of Publicity Department (SY2024-26)  
-- Jayden Huang — Director of Operation Department (SY2024-27)  
-- Cici Lu — Director of Planning Department (SY2025-28)  
-- Felix Xu — Director of Operation Department (SY2026-27)  
-- Maggie Wu — Director of Publicity Department (SY2026-29)  
-
----
-
 ### ✨ Core Features
 
 Through photography, videos, posters, and creative storytelling, we highlight:
@@ -62,6 +39,26 @@ Our content includes:
 - School event photography
 - Promotional edits
 - Student life showcases
+### 👥 Team
+
+**Founders & Co-founders**  
+- Ellie Yang  
+- Jayden Huang  
+- Tansee Liu  
+
+**Draco Leadership Team**  
+- Ellie Yang (SY2024-25)  
+- Tansee Liu (SY2024-26)  
+- Jayden Huang (SY2024-27)  
+- Elaine Zhou (SY2026-27)  
+
+**Heads of Departments**  
+- Ellie Yang — Director of Planning Department (SY2024-25)  
+- Tansee Liu — Director of Publicity Department (SY2024-26)  
+- Jayden Huang — Director of Operation Department (SY2024-27)  
+- Cici Lu — Director of Planning Department (SY2025-28)  
+- Felix Xu — Director of Operation Department (SY2026-27)  
+- Maggie Wu — Director of Publicity Department (SY2026-29)  
 
 ---
 
